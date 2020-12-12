@@ -1,5 +1,5 @@
 {
-  "name": "@catonthemount/palindrome",
+  "name": "catonthemount-palindrome",
   "version": "0.1.0",
   "description": "Palindrome detector",
   "main": "index.js",
@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/ScotSutherland/palindrome/issues"
   },
-  "homepage": "https://github.com/ScotSutherland/palindrome#readme"
+  "homepage": "https://github.com/ScotSutherland/palindrome#readme",
+  "dependencies": {}
 }
